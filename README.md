@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Teamie 😃
 
-<!--
-**coder-teamie/coder-teamie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👀 I’m interested in video games and musical instruments.
+- 🔥 My current Skills:
+  - HTML/CSS.
+  - JavaScript.
+  - SASS.
+- 🌱 I’m currently learning Advanced JavaScript, React and NodeJS.
+- 🧐 Focusing on Frontend Web Development
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/oluwatimilehin-akinnubi-847945205/).
+- 🚀 Personal Project [Comfy Store](https://coder-teamie-comfystore.netlify.app/).
+- 👁️ Check out my [Frontend Mentor](https://www.frontendmentor.io/profile/coder-teamie).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-teamie&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
