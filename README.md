@@ -11,4 +11,4 @@
 - 🚀 Personal Project [Comfy Store](https://coder-teamie-comfystore.netlify.app/).
 - 👁️ Check out my [Frontend Mentor](https://www.frontendmentor.io/profile/coder-teamie).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-teamie&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tea-scripts&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
