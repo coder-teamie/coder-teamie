@@ -5,7 +5,7 @@
   - HTML/CSS.
   - JavaScript.
   - SASS.
-- 🌱 I’m currently learning Advanced JavaScript, React and NodeJS.
+- 🌱 I’m currently learning Advanced JavaScript, and MERN stack.
 - 🧐 Focusing on Frontend Web Development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/oluwatimilehin-akinnubi-847945205/).
 - 🚀 Personal Project [Comfy Store](https://coder-teamie-comfystore.netlify.app/).
