@@ -4,7 +4,7 @@ Hi 👋 My name is Oluwatimilehin
 Frontend Web Developer
 ----------------------
 
-I've been practicing frontend development technologies for 2years and now I have developed a passion to extend to backend development.
+<!-- I've been practicing frontend development technologies for 2years and now I have developed a passion to extend to backend development. -->
 
 * 🌍  I'm based in Manila, Philippines
 * ✉️  You can contact me at [timmieprince@gmail.com](mailto:timmieprince@gmail.com)
