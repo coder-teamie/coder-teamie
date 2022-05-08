@@ -24,10 +24,4 @@ I've been practicing frontend development technologies for 2years and now I have
 
 <p align="left"> <a href="https://www.github.com/tea-scripts" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/tea__scripts" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/oluwatimilehin-akinnubi-847945205" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/tea__scripts" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/tea-scripts"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tea-scripts&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tea-scripts&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
