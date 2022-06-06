@@ -1,14 +1,12 @@
 Hi 👋 My name is Oluwatimilehin
 ===============================
 
-Frontend Web Developer
+MERN Stack Developer
 ----------------------
-
-<!-- I've been practicing frontend development technologies for 2years and now I have developed a passion to extend to backend development. -->
 
 * 🌍  I'm based in Manila, Philippines
 * ✉️  You can contact me at [timmieprince@gmail.com](mailto:timmieprince@gmail.com)
-* 🧠  I'm currently learning MERN Stack
+* 🧠  I'm currently learning Cloud Computing
 
 ### Skills
 
