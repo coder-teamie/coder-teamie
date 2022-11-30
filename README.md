@@ -1,12 +1,13 @@
 Hi 👋 My name is Oluwatimilehin
 ===============================
 
-MERN Stack Developer
+Full Stack Developer
 ----------------------
 
 * 🌍  I'm based in Manila, Philippines
 * ✉️  You can contact me at [timmieprince@gmail.com](mailto:timmieprince@gmail.com)
 * 🧠  I'm currently learning Cloud Computing
+* ⭐  My Tech Stack - MERN
 
 ### Skills
 
