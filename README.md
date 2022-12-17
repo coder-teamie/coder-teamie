@@ -6,7 +6,8 @@ Full Stack Developer
 
 * 🌍  I'm based in Manila, Philippines
 * ✉️  You can contact me at [timmieprince@gmail.com](mailto:timmieprince@gmail.com)
-* 🧠  I'm currently learning Cloud Computing
+* 🧠  I'm currently learning Quality Assurance and Testing
+* 🕸   [Portfolio](https://oluwatimilehin.onrender.com/)
 * ⭐  My Tech Stack - MERN
 
 ### Skills
